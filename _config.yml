@@ -1,0 +1,28 @@
+name: Kreon
+favicon: null
+layout_spectrum: 0.2131299376487732
+typography_spectrum: 0.6934043259825557
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.17587068723514676
+  lightness: 0.4988680905662477
+  saturation: 0.5507831594441086
+  rhythmicContrast: 0.7860590212512761
+purpose: []
